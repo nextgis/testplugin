@@ -1,0 +1,20 @@
+[general]
+name=TestPlugin
+description=This plugin is for testing and templating purposes
+category=Vector
+version=0.0.1
+qgisMinimumVersion=2.0
+
+author=NextGIS
+email=info@nextgis.org
+
+icon=icons/identifyplus.png
+
+tags=testing,template
+
+homepage=
+tracker=
+repository=https://github.com/nextgis/testplugin
+
+experimental=True
+deprecated=False
