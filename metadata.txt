@@ -8,12 +8,12 @@ qgisMinimumVersion=2.0
 author=NextGIS
 email=info@nextgis.org
 
-icon=icons/identifyplus.png
+icon=icons/icon.png
 
 tags=testing,template
 
-homepage=
-tracker=
+homepage=http://gis-lab.info/qa/qgis-dev-python.html
+tracker=https://github.com/nextgis/testplugin/issues
 repository=https://github.com/nextgis/testplugin
 
 experimental=True
